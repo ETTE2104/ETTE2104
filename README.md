@@ -1,6 +1,6 @@
 # Hello 👋 My name is Dat
 
-I’m a final-year college student aspiring to become a **Data Analyst**.  
+I’m a recent gratuated student aspiring to become a **Data Analyst**.  
 I enjoy learning how to work with data, from cleaning and analysis to visualization.  
 
 ## 🔧 Skills
