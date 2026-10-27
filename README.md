@@ -25,20 +25,6 @@ I'm a recent graduate passionate about turning raw data into meaningful insights
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Superstore Sales Analysis
-**Tools:** Python, SQL Server, Power BI
-
-- Cleaned and prepared a dataset containing 9,993 sales transactions.
-- Analyzed sales, profit, discounts, products, and regional performance.
-- Built interactive Power BI dashboards to track business KPIs and uncover trends.
-- Identified loss-making product subcategories and areas for further investigation.
-
-🔗 [View Project](https://github.com/ETTE2104)
-
----
-
 ## 🧠 Core Competencies
 
 - Logical and Analytical Thinking
